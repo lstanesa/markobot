@@ -2,7 +2,7 @@ import random
 import time
 
 """
-	Courteous of someone on the internet who wrote this under CC. I can't remember exactly where I got it.
+	Someone on the internet wrote this under CC. I can't remember exactly where I got it.
 	Modified slightly for the bot's ends.
 """
 
