@@ -1,0 +1,6 @@
+{
+    "login_method" : "token", 
+    "token" : "",            
+    "username" : "",        
+    "password" : "" 
+}

@@ -1,0 +1,8 @@
+{
+    "whitelist_enabled" : false,
+    "whitelist" : [
+    ],
+
+    "blacklist" : [
+    ]
+}
